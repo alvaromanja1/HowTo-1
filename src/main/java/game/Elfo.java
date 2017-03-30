@@ -13,6 +13,7 @@ public class Elfo extends Character{
 	public void display() {
 		// TODO Auto-generated method stub
 		System.out.println("I´m an Elfo");
+		System.out.println("Test message");
 	}
 	
 }
