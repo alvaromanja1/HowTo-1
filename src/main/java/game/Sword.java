@@ -12,6 +12,7 @@ public class Sword implements WeaponBehaviour {
 		// TODO Auto-generated method stub
 		System.out.println("You slash madly with your sword.");
 		System.out.println("Test message.");
+		System.out.println("Added another test message v2");
 	}
 }
 
