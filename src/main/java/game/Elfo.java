@@ -14,7 +14,7 @@ public class Elfo extends Character{
 		// TODO Auto-generated method stub
 		System.out.println("I´m an Elfo");
 		System.out.println("Test message");
-		System.out.println(Last test message");
+		System.out.println("Last test message");
 	}
 	
 }
